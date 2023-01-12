@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import turtle as tr
 
 
@@ -84,8 +84,7 @@ if __name__ == '__main__':
     code2.hideturtle()
     create(code1,0,0)
 screen.mainloop()
-=======
-import turtle as tr
+# import turtle as tr
 
 
 def create(pen,a,b):
@@ -170,4 +169,3 @@ if __name__ == '__main__':
     code2.hideturtle()
     create(code1,0,0)
 screen.mainloop()
->>>>>>> 173ba011da6e4e68245c3be75758d8fd2922ad3a
