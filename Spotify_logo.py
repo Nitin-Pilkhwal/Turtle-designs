@@ -33,7 +33,7 @@ t.forward(0)
 t.circle(120,60)
 
 t.penup()
-t.goto(130, 55)
+t.goto(-115, -115)
 t.pendown()
 t.color("#1DB954")
 t.write("Spotify", font=("Arial", 60, "bold"))
