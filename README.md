@@ -16,5 +16,5 @@ Some designs using python turtle library
 ## 6. Spotify 
       It is a python turtle program to draw Spotify logo.
 ## 7. Python
-      It is a python turtle program to draw Spotify logo.
+      It is a python turtle program to draw python logo.
 
