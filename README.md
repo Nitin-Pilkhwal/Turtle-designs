@@ -19,4 +19,6 @@ Some designs using python turtle library
       It is a python turtle program to draw python logo.
 ## 8. Geeks for Geeks logo
       It is a python turtle program to draw GFG logo.
+## 9. Chess Board
+      It is a python turtle program to draw chess board.
 
