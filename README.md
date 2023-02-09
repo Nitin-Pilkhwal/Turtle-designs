@@ -17,4 +17,6 @@ Some designs using python turtle library
       It is a python turtle program to draw Spotify logo.
 ## 7. Python
       It is a python turtle program to draw python logo.
+## 8. Geeks for Geeks logo
+      It is a python turtle program to draw GFG logo.
 
