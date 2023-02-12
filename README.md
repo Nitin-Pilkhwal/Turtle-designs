@@ -21,4 +21,6 @@ Some designs using python turtle library
       It is a python turtle program to draw GFG logo.
 ## 9. Chess Board ♟️
       It is a python turtle program to draw chess board.
+## 10. Among Us 📌
+      It is a python turtle program to draw Among Us imposter.
 
