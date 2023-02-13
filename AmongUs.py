@@ -4,24 +4,19 @@ impostor = turtle.Turtle()
 win.setup(width=600, height=600)
 body_color = 'red'
 glass_color = '#9acedc'
-# it can move forward backward left right
 def body():
     """ draws the body """
     impostor.pensize(20)
-    # impostor.speed(15)
     impostor.fillcolor(body_color)
     impostor.begin_fill()
-    # right side
     impostor.right(90)
     impostor.forward(50)
     impostor.right(180)
     impostor.circle(40, -180)
     impostor.right(180)
     impostor.forward(200)
-    # head curve
     impostor.right(180)
     impostor.circle(100, -180)
-    # left side
     impostor.backward(20)
     impostor.left(15)
     impostor.circle(500, -20)
@@ -29,7 +24,6 @@ def body():
     impostor.circle(40, -180)
     impostor.left(7)
     impostor.backward(50)
-    # hip
     impostor.up()
     impostor.left(90)
     impostor.forward(10)
