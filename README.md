@@ -23,4 +23,5 @@ Some designs using python turtle library
       It is a python turtle program to draw chess board.
 ## 10. Among Us 📌
       It is a python turtle program to draw Among Us imposter.
-
+## 11. Spiral Star
+      It is a python turtle program to draw a spiral star.
